@@ -21,7 +21,7 @@ os.makedirs(UPLOAD_FOLDER, exist_ok=True)
 
 # --- Groq Client Initialization ---
 # Use environment variable for API key
-GROQ_API_KEY = os.getenv("GROQ_API_KEY", "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")
+GROQ_API_KEY = os.getenv("GROQ_API_KEY", "YOUR_API_KEY")
 client = Groq(api_key=GROQ_API_KEY)
 
 # --- Database Setup ---
