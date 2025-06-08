@@ -1,0 +1,9 @@
+streamlit
+fastapi
+uvicorn
+python-multipart
+pandas
+pytesseract
+Pillow
+pdf2image
+groq
