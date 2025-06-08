@@ -1,4 +1,5 @@
 # MediDoc-Organizer
+![Landing Page](/images/1.jpg)
 
 # MediDoc Organizer Documentation
 
@@ -12,11 +13,10 @@
 7. [Configuration](#configuration)
 8. [Usage Guide](#usage-guide)
 9. [Troubleshooting](#troubleshooting)
-10. [Security Considerations](#security-considerations)
-11. [Development Notes](#development-notes)
+10. [Development Notes](#development-notes)
 
 ## Overview
-
+![Chatbot](/images/3.jpg)
 MediDoc Organizer is an intelligent medical document management system that helps users organize, process, and search through their medical documents using AI-powered text extraction and natural language processing.
 
 ### Key Features
@@ -35,6 +35,7 @@ MediDoc Organizer is an intelligent medical document management system that help
 - **OCR**: Tesseract (via pytesseract)
 - **PDF Processing**: pdf2image
 - **Image Processing**: PIL (Pillow)
+
 
 ## Architecture
 
